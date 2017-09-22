@@ -1,0 +1,19 @@
+{
+ "ids": [],
+ "estados": [],
+ "nombres": [],
+ "notify": [],
+ "handles": [],
+ "admin": {
+  "id": null,
+  "estado": true,
+  "nombre": "",
+  "notify": 1,
+  "handle": ""
+ },
+ "grupo": {
+  "nombre": "",
+  "id": null,
+  "invite_link": ""
+ }
+}
